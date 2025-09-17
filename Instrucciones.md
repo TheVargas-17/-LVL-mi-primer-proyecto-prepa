@@ -18,8 +18,8 @@ opciones predeterminadas.
 Terminal y ejecuta los siguientes comandos, reemplazando con tu nombre y correo electrónico:
 4. git config --global user.name "Tu Nombre Completo"
 5. git config --global user.email "tu.email@ejemplo.com"
-o El --global significa que esta configuración se aplicará a todos tus proyectos en esta
-computadora. Git almacenará esto en un archivo llamado .gitconfig.
+  o El --global significa que esta configuración se aplicará a todos tus proyectos en esta
+  computadora. Git almacenará esto en un archivo llamado .gitconfig.
 6. Verifica la configuración: Para asegurarte de que todo está correcto, ejecuta:
 7. git config --global --list
 Deberías ver tu nombre de usuario y correo electrónico en la lista.

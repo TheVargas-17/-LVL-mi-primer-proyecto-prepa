@@ -27,7 +27,7 @@ Git es la herramienta que te permitirá interactuar con GitHub desde tu computad
    El --global significa que esta configuración se aplicará a todos tus proyectos en esta computadora. Git almacenará esto en un archivo llamado .gitconfig.
 
 4. Verifica la configuración:
-   bash
+0. ```bash
    git config --global --list
 Deberías ver tu nombre de usuario y correo electrónico en la lista.
 

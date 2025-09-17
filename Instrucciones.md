@@ -63,7 +63,7 @@ Documents/Projects.
 4. Clona el repositorio: Una vez en la carpeta deseada, ejecuta el siguiente comando, pegando la URL
 que copiaste:
 5. git clone [PEGA_AQUÍ_LA_URL_HTTPS_DE_TU_REPOSITORIO]
-(Ejemplo: git clone https://github.com/tu-usuario/mi-primer-proyecto-prepa.git). Este comando
+- (Ejemplo: git clone https://github.com/tu-usuario/mi-primer-proyecto-prepa.git). Este comando
 descargará una copia completa de tu repositorio (incluyendo el README.md) en una nueva carpeta
 con el nombre de tu repositorio.
 6. Entra a la carpeta del proyecto:
